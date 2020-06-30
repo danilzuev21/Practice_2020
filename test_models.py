@@ -15,9 +15,6 @@ from tensorflow.keras import backend as K
 from scipy import stats as st
 # from sklearn.metrics import r2_score
 from tensorflow.keras.models import load_model
-# Для избежания  проблем с открытием файлов:
-from pathlib import Path
-
 
 
 # Метрика R-квадрат
